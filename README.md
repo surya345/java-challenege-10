@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-10 - Calendar Generator
+## Boilerplate Repository - Challenge-10 - Printing Monthly Calendar
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
